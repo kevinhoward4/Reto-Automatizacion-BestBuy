@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Reto de semillero" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-02T12:39:51" hostname="DESKTOP-BLMI9HO" time="227.657">
+  <properties/>
+  <testcase name="Ingresar a la barra buscadora desde la pagina principal el item a buscar" classname="Reto de semillero" time="227.657"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 91.0.4472.19 (1bf021f248676a0b2ab3ee0561d83a59e424c23e-refs/branch-heads/4472@{#288}) on port 15792
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jun 02, 2021 7:40:03 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
